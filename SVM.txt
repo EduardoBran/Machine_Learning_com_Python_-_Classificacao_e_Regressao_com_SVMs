@@ -1,0 +1,105 @@
+MACHINE LEARNING
+
+Classificação e Regressão com Support Vector
+
+Introdução 03:19
+O Que São SVMs? 04:56
+Principais Características das SVMs 03:47
+O Que São Vetores de Suporte? 3 Páginas
+Teoria do Aprendizado Estatístico 9 Páginas
+Dados Linearmente Separáveis x Dados Não Linearmente Separáveis 07:41
+Funcionamento das SVMs com Dados Linearmente Separáveis 03:47
+Uma Dose de Matemática - Distância Mínima Entre os Vetores de Suporte 09:55
+Uma Dose de Matemática - Otimização com Programação Quadrática e o Truque de Kernel 09:03
+Funcionamento das SVMs com Dados Não Linearmente Separáveis 05:47
+SVM's com Margens Rígidas x SVM's com Margens Flexíveis - Parte 1/3 06:12
+SVM's com Margens Rígidas x SVM's com Margens Flexíveis - Parte 2/3 06:50
+SVM's com Margens Rígidas x SVM's com Margens Flexíveis - Parte 3/3 05:21
+Parâmetro de Regularização 08:16
+Kernel RBF x Kernel Linear x Kernel Polinomial 3 Páginas
+Parâmetros C, Gamma e Kernel RBF 4 Páginas
+Classificação Multiclasse com SVM - Prevendo Gastos com Cartão de Crédito em 3 Categorias 04:56
+Classificação Multiclasse com SVM - Definindo o Problema de Negócio 07:08
+Classificação Multiclasse com SVM - Carregando os Dados e Compreendendo as Variáveis 08:58
+Classificação Multiclasse com SVM - Análise Exploratória de Dados - Parte 1/2 05:37
+Classificação Multiclasse com SVM - Análise Exploratória de Dados - Parte 2/2 06:32
+Classificação Multiclasse com SVM - Pré-Processamento dos Dados - Transformação de Variáveis 06:27
+Classificação Multiclasse com SVM - Pré-Processamento dos Dados - Imputação de Valores Missing Usando Método PMM (Predictive Mean Matching) 07:01
+Classificação Multiclasse com SVM - Pré-Processamento dos Dados - Imputação de Valores Missing Usando o Método PMM (Predictive Mean Matching) 05:52
+Classificação Multiclasse com SVM - Pré-Processamento dos Dados - Aplicando o PMM com Multivariate Imputation by Chained Equations - Parte 1/2 07:02
+Classificação Multiclasse com SVM - Pré-Processamento dos Dados - Aplicando o PMM com Multivariate Imputation by Chained Equations - Parte 2/2 07:03
+Classificação Multiclasse com SVM - Pré-Processamento dos Dados - Análise de Treino e Teste Usando Inclusão Aleatória 07:26
+Classificação Multiclasse com SVM - Modelagem Preditiva 07:59
+Classificação Multiclasse com SVM - Resolvendo Problemas de Carregar os Dados Pré-Processados 06:34
+Classificação Multiclasse com SVM - Encodendo a Variável Target 06:00
+Classificação Multiclasse com SVM - Criando e Treinando o Modelo Base com Kernel RBF
+Classificação Multiclasse com SVM - ALERTA DE APRENDIZADO VALIOSO 07:13
+Classificação Multiclasse com SVM - Avaliando o Modelo - Acurácia, Precision, Recall e Score AUC 08:24
+Classificação Multiclasse com SVM - Grid Search Para Otimização de Hiperparâmetro C com Kernel Linear 04:26
+Classificação Multiclasse com SVM - Avaliando o Modelo - Parte 1/2 03:50
+Classificação Multiclasse com SVM - Avaliando o Modelo - Parte 2/2 03:17
+Classificação Multiclasse com SVM - Grid Search Para Otimização de Hiperparâmetro Gamma com Kernel RBF 03:50
+Classificação Multiclasse com SVM - Avaliando o Modelo 05:37
+Classificação Multiclasse com SVM - Otimizando o Modelo com Kernel Polinomial 03:10
+Classificação Multiclasse com SVM - Extraindo Métricas Globais do Modelo e Métricas Individuais Por Classe 08:30
+Classificação Multiclasse com SVM - Selecionando o Melhor Modelo 02:58
+Classificação Multiclasse com SVM - Serializando o Modelo Treinado 04:09
+Mini-Projeto 2 - Prevendo a Intenção de Compra de Usuários de E-Commerce - Definição do Problema 04:27
+Mini-Projeto 2 - Prevendo a Intenção de Compra de Usuários de E-Commerce - Carga e Dicionário de Dados 07:50
+Mini-Projeto 2 - Prevendo a Intenção de Compra de Usuários de E-Commerce - Taxa de Rejeição, Taxa de Saída e Valor da Página 08:24
+Mini-Projeto 2 - Prevendo a Intenção de Compra de Usuários de E-Commerce - Análise Exploratória - Informações e Limpeza 05:47
+Mini-Projeto 2 - Prevendo a Intenção de Compra de Usuários de E-Commerce - Análise Exploratória - Variáveis Numéricas 07:24
+Mini-Projeto 2 - Prevendo a Intenção de Compra de Usuários de E-Commerce - Análise Exploratória - Variáveis Categóricas - Parte 1/2 09:12
+Mini-Projeto 2 - Prevendo a Intenção de Compra de Usuários de E-Commerce - Análise Exploratória - Variáveis Categóricas - Parte 2/2 08:47
+Mini-Projeto 2 - Prevendo a Intenção de Compra de Usuários de E-Commerce - Pré-Processamento - Label Encoding 08:11
+Mini-Projeto 2 - Prevendo a Intenção de Compra de Usuários de E-Commerce - Pré-Processamento - Balanceamento de Classe com Oversampling 08:41
+Mini-Projeto 2 - Prevendo a Intenção de Compra de Usuários de E-Commerce - Modelo Base Com Kernel Linear 07:43
+Mini-Projeto 2 - Prevendo a Intenção de Compra de Usuários de E-Commerce - Modelo Com Kernel Linear e Dados Balanceados 08:06
+Mini-Projeto 2 - Prevendo a Intenção de Compra de Usuários de E-Commerce - Modelo Com Kernel RBF e Otimização com Grid Search 08:52
+Mini-Projeto 2 - Prevendo a Intenção de Compra de Usuários de E-Commerce - Modelo Com Kernel Polinomial 08:28
+Mini-Projeto 2 - Prevendo a Intenção de Compra de Usuários de E-Commerce - Previsões Com o Modelo Treinado 06:19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
